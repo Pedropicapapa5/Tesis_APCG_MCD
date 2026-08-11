@@ -1,4 +1,4 @@
 # Tesis_APCG_MCD
-TESINA PARA LA MAESTRÍA DE CIENCIA DE DATOS:
 
-CARACTERIZACIÓN Y CLASIFICACIÓN AUTOMÁTICA DE VOCES NARRATIVAS EN DRÁCULA DE BRAM STOKER MEDIANTE PROCESAMIENTO DE LENGUAJE NATURAL
+**Tesina para la Maestría de Ciencia de Datos:**
+Caracterización y clasificación automática de voces narrativas en *Drácula de Bram Stoker* mediante procesamiento de lenguaje natural
